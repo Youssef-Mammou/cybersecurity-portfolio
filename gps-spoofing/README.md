@@ -11,13 +11,13 @@ This repository contains some selected deliverables:
 - Internship report (technical documentation)  
 
 ## Contents  
-- **/Detection_Spoofing**  
+- **Detection_Spoofing**  
   - `Detection_par_puissance.py` – detection by signal strength  
   - `Detection_par_vitesse.py` – detection by speed jumps  
   - `Détection_Spoofing_Satellites_et_Puissances.mp4` – demo video  
   - `Détection_Spoofing_vitesse.mp4` – demo video
   - 
-- **/Mode_Autonome**  
+- **Mode_Autonome**  
   - `detector_snr.py` – detection based on signal power  
   - `detector_speed.py` – detection based on speed anomalies  
   - `Final_Map_Project.py` – Flask + Leaflet map with real-time alerts  
